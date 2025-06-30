@@ -1,0 +1,58 @@
+AI Future Directions – Theoretical Analysis
+Assignment Part 1: Theoretical Analysis (40%)
+Student Name: Joseph Alex
+Course: AI in Software Engineering
+
+Essay Questions
+Q1: Explain how Edge AI reduces latency and enhances privacy compared to cloud-based AI. Provide a real-world example.
+
+Answer:
+Edge AI refers to deploying artificial intelligence models directly on devices such as smartphones, drones, or IoT sensors—rather than relying on remote cloud servers. This significantly reduces latency, since processing happens locally without depending on a network round-trip to the cloud.
+
+Privacy is also enhanced because sensitive data remains on the device. This is critical in industries like healthcare, where patient data must be protected from exposure during transmission.
+
+Real-world example:
+Autonomous drones equipped with Edge AI can detect obstacles and make instant flight path adjustments. These decisions are processed locally, allowing the drone to operate reliably even in areas with poor connectivity—like search and rescue missions.
+
+Q2: Compare Quantum AI and Classical AI in solving optimization problems. What industries could benefit most from Quantum AI?
+
+Answer:
+Classical AI uses traditional algorithms and hardware which are sometimes inefficient for large-scale optimization problems. In contrast, Quantum AI leverages quantum bits (qubits) and quantum parallelism to evaluate many possible solutions simultaneously, making it potentially more powerful for certain tasks.
+
+Algorithms like QAOA (Quantum Approximate Optimization Algorithm) can outperform classical methods in domains involving complex solution spaces.
+
+Industries that benefit most from Quantum AI:
+
+Pharmaceuticals – Molecular modeling for drug discovery
+
+Logistics – Real-time route and supply chain optimization
+
+Finance – Portfolio optimization and fraud detection
+
+Energy – Smart grid resource management and demand forecasting
+
+Q3: Discuss the societal impact of Human-AI collaboration in healthcare. How might it transform roles like radiologists or nurses?
+
+Answer:
+Human-AI collaboration in healthcare improves accuracy, speed, and quality of services. AI systems can process large volumes of medical data, identify patterns, and offer decision support, while human professionals provide empathy, oversight, and contextual understanding.
+
+Radiologists will increasingly rely on AI to detect abnormalities in X-rays or MRIs, serving as a second opinion that enhances diagnostic confidence and reduces workload.
+
+Nurses may use AI-powered monitoring tools that alert them to patient changes in real time, enabling earlier interventions and improving patient safety.
+
+Overall, Human-AI collaboration leads to improved outcomes, more efficient care delivery, and shifts healthcare roles toward more informed and proactive care.
+
+Case Study Critique: AI-IoT for Traffic Management in Smart Cities
+Analysis:
+The integration of AI with IoT (AIoT) in traffic systems plays a vital role in promoting urban sustainability. Real-time data from cameras, GPS devices, and smart traffic lights is used by AI to dynamically control traffic flow, reduce congestion, lower emissions, and improve public transportation efficiency.
+
+Two major challenges:
+
+Data Security & Privacy:
+AIoT systems generate and transmit sensitive location and behavioral data. Without proper encryption and anonymization, this data could be exposed or misused.
+
+Infrastructure Costs & Compatibility:
+Deploying and maintaining IoT infrastructure requires significant investment. Additionally, integrating AI with existing legacy systems poses challenges due to protocol mismatches and lack of standardization.
+
+Prepared for: PLP Academy – AI Future Directions Assignment
+Prepared by: Joseph Alex
